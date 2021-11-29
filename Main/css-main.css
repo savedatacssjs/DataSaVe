@@ -646,3 +646,11 @@
                 color: #3126D1;
             }
         }
+
+{
+  .wau
+{
+  display: flex;
+  justify-content: center;
+}
+}
